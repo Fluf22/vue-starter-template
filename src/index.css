@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #app {
+	font-family: "Open Sans", Arial, Helvetica, sans-serif;
+	height: 100%;
+}
